@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 61,
+      "storeName": "钟村",
+      "addressDetail": "钟村镇诜敦村广路南侧天汇百货商场首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 62,
+      "storeName": "工业大道",
+      "addressDetail": "工业大道南821号金碧都市广场首层（金碧一街）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 63,
+      "storeName": "金聚",
+      "addressDetail": "赤岗路金聚街1-19号六福华庭首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 64,
+      "storeName": "大石",
+      "addressDetail": "大石镇大涌路56号天和百货首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 65,
+      "storeName": "龙洞",
+      "addressDetail": "龙洞街地段迎龙路6号一层及二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 66,
+      "storeName": "T1航站楼主",
+      "addressDetail": "B区国内到达W1出口（B2号门旁）",
+      "pro": "24小时,机场店,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 67,
+      "storeName": "南站三",
+      "addressDetail": "广州南站一楼到达层餐厅",
+      "pro": "精选店,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 68,
+      "storeName": "粤垦",
+      "addressDetail": "粤垦路523号首层102铺",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 69,
+      "storeName": "石楼",
+      "addressDetail": "番禺区市莲路石楼路段108号家德福广场一层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 70,
+      "storeName": "百花路",
+      "addressDetail": "百花路8号花地人家商业区首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

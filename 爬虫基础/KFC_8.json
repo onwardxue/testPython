@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 71,
+      "storeName": "棠德南",
+      "addressDetail": "棠德南路44-52号“乐天棠德广场”E座107-109，206-213",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 72,
+      "storeName": "滘口客运站",
+      "addressDetail": "芳村大道西路533号滘口汽车客运站二层",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 73,
+      "storeName": "万达广场",
+      "addressDetail": "云城东路509号广州白云万达商业广场101铺",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 74,
+      "storeName": "东圃四季",
+      "addressDetail": "东圃大马路4号四季时尚荟B区2楼",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 75,
+      "storeName": "广州南站肯德基",
+      "addressDetail": "广州南站肯德基一店",
+      "pro": "礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 76,
+      "storeName": "清河东",
+      "addressDetail": "城区大道283号金港湾购物广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 77,
+      "storeName": "狮岭宝峰",
+      "addressDetail": "狮岭镇宝峰路2号宝峰皮具材料城一楼",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 78,
+      "storeName": "大舜商务中心",
+      "addressDetail": "中山大道西 棠下大舜商务中心 首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 79,
+      "storeName": "上社",
+      "addressDetail": "中山大道上社牌坊内博兴广场二楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 80,
+      "storeName": "燕岭",
+      "addressDetail": "燕岭路95号新燕大厦首层",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

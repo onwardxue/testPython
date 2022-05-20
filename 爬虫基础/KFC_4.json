@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 31,
+      "storeName": "东晓南路",
+      "addressDetail": "东晓南路1273号101房",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 32,
+      "storeName": "员村",
+      "addressDetail": "黄埔大道中恒隆街3号家乐福超首层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 33,
+      "storeName": "远景",
+      "addressDetail": "远景路172号时代新都会首、二层肯德基",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 34,
+      "storeName": "花都广百",
+      "addressDetail": "凤凰北路与龙珠路交汇处广百新一城A区首二层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 35,
+      "storeName": "太和",
+      "addressDetail": "太和镇太和广场联升路自编1号首、二层",
+      "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 36,
+      "storeName": "五山",
+      "addressDetail": "五山地铁B口",
+      "pro": "24小时,Wi-Fi,点唱机,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 37,
+      "storeName": "南站二",
+      "addressDetail": "广州南站二店肯德基",
+      "pro": "礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 38,
+      "storeName": "光明广场",
+      "addressDetail": "西湖路以南、龙藏街以东,光明广场首层二层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 39,
+      "storeName": "金沙",
+      "addressDetail": "工业大道北76-80号家乐福首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 40,
+      "storeName": "五月花",
+      "addressDetail": "中山五路68号负二层",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

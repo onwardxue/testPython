@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "南村",
+      "addressDetail": "南村镇南村综合市场一楼西北角",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "逸富",
+      "addressDetail": "新塘镇广深公路旁逸富广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "购书中心",
+      "addressDetail": "天河路123号广州购书中心负一层",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "东郊",
+      "addressDetail": "中山大道路399号车陂路口易初莲花首层",
+      "pro": "Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "南油",
+      "addressDetail": "江南大道中168号南油大厦首层",
+      "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "云山大道",
+      "addressDetail": "新华街云山大道29号首层及二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "龙口东",
+      "addressDetail": "天河北路华标广场首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "东峻天使餐厅",
+      "addressDetail": "东风东路836号东峻广场西园首层29、30号铺",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "大沙东",
+      "addressDetail": "石化路123.125.127.129号文冲商贸大厦",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "赤岗",
+      "addressDetail": "石榴岗路1号赤岗大厦首层",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 51,
+      "storeName": "人和地铁站出口",
+      "addressDetail": "人和镇鹤龙六路193至247号（人和地铁站C1出口）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 52,
+      "storeName": "沙步",
+      "addressDetail": "沙步村沙步生活区场商业街三路壹栋黄埔东路2841号",
+      "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 53,
+      "storeName": "赤岗北",
+      "addressDetail": "赤岗北路18号首层自编A01-A03铺",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 54,
+      "storeName": "机场路",
+      "addressDetail": "机场路12号首层",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 55,
+      "storeName": "今洲广场",
+      "addressDetail": "进港大道与金沙路交汇处今洲广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 56,
+      "storeName": "中山四",
+      "addressDetail": "中山四路199号东鸣轩首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 57,
+      "storeName": "佳兆业广场",
+      "addressDetail": "体育西路191号中石化大厦负一层B-04",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 58,
+      "storeName": "番禺富丽",
+      "addressDetail": "番禺大石镇105国道大石段257-259号朝阳东路富丽城广场二楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 59,
+      "storeName": "中六乐购",
+      "addressDetail": "中山六281号上品轩负一层",
+      "pro": "Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 60,
+      "storeName": "石井",
+      "addressDetail": "石井街张村石井桥东北侧住宅综合楼首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

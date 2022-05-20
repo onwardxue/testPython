@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 91,
+      "storeName": "金域蓝湾DT",
+      "addressDetail": "白云区金沙洲路金域蓝湾首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 92,
+      "storeName": "鹤龙",
+      "addressDetail": "鹤龙一路2号国际单位一期A栋",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 93,
+      "storeName": "龙岗DT",
+      "addressDetail": "太和镇龙归龙岗路1号龙归商业城",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 94,
+      "storeName": "北兴DT",
+      "addressDetail": "北兴镇花都大道南17号",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 95,
+      "storeName": "狮岭东升餐厅",
+      "addressDetail": "花都区狮岭镇盘古路金炜达商业楼首、二层",
+      "pro": "24小时,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 96,
+      "storeName": "花都龙珠",
+      "addressDetail": "凤凰路龙珠路交叉口大润发超市首层",
+      "pro": "24小时,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 97,
+      "storeName": "新华餐厅",
+      "addressDetail": "新华街建设路19号二层",
+      "pro": "24小时,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 98,
+      "storeName": "石基城市广场餐厅",
+      "addressDetail": "石基镇莲塘路2号四座石基城广场",
+      "pro": "Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 99,
+      "storeName": "钻汇广场光明北餐厅",
+      "addressDetail": "富华西路2号钻汇珠宝广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 100,
+      "storeName": "番禺大岗餐厅",
+      "addressDetail": "南沙区大岗镇二湾社区兴业路50-5,50-6,50-7号",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

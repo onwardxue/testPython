@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "东涌",
+      "addressDetail": "番禺东涌镇吉祥围",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "领展购物广场",
+      "addressDetail": "黄沙大道8号负一层B093铺",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "乐都汇",
+      "addressDetail": "东圃珠村中山大道乐都汇购物中心一层L1F001号店铺",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "乐峰",
+      "addressDetail": "榕景路107号（107号）-278—282房（自编B2层S36号商铺）",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "海珠新都荟",
+      "addressDetail": "东晓南路1290号101房（自编2A10铺）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "五羊",
+      "addressDetail": "寺右新马路五羊村商住中心首层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "署前",
+      "addressDetail": "署前路33号二楼",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "淘金",
+      "addressDetail": "淘金路6号首层",
+      "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "好又多",
+      "addressDetail": "中山大道188号好又多商业广场",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "万客隆",
+      "addressDetail": "三元里地铁站C1出口卜蜂莲花首层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

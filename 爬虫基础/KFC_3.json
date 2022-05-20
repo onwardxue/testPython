@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 21,
+      "storeName": "新世界",
+      "addressDetail": "中山大道西160-178号华润万佳百货首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 22,
+      "storeName": "黄埔",
+      "addressDetail": "大沙东路5-7号首层、二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 23,
+      "storeName": "城光荟（原新光城市广场）",
+      "addressDetail": "康王中路648号城光荟二楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 24,
+      "storeName": "锦轩",
+      "addressDetail": "农林下路4-6号锦轩现代城首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 25,
+      "storeName": "东圃",
+      "addressDetail": "东圃大马路1号东圃购物中心",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 26,
+      "storeName": "肯德基（骏盈广场）",
+      "addressDetail": "西槎路129号骏盈广场首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 27,
+      "storeName": "科学大道",
+      "addressDetail": "科学大道193号优托邦A座一层及二层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 28,
+      "storeName": "百德广场",
+      "addressDetail": "市桥桥东路百德广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 29,
+      "storeName": "新世纪",
+      "addressDetail": "街口新城东路66号林苑大厦首二层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 30,
+      "storeName": "中山大道",
+      "addressDetail": "中山大道中87号苏宁易购首层（车陂地铁站D出口对面）",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 41,
+      "storeName": "中大科技园",
+      "addressDetail": "新港西路135号中山大学（南校区）蒲园区628号中大科技综合B座二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 42,
+      "storeName": "大学城",
+      "addressDetail": "小谷围广州大学城广州大学生活区商业中心首层A1028及二层A2009",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 43,
+      "storeName": "车站",
+      "addressDetail": "环西路159号广州火车站内首层候车室大厅右侧",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 44,
+      "storeName": "人和",
+      "addressDetail": "人和镇鹤龙六路28号人人佳超市首层",
+      "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 45,
+      "storeName": "石牌西",
+      "addressDetail": "天河路586号北座首二层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 46,
+      "storeName": "华汇广场",
+      "addressDetail": "进港大道华汇广场首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 47,
+      "storeName": "东站",
+      "addressDetail": "东站路1号首层",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 48,
+      "storeName": "佳润",
+      "addressDetail": "广州大道北1419号佳润广场首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 49,
+      "storeName": "花都百业广场",
+      "addressDetail": "新华镇公益路百业广场首层",
+      "pro": "Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 50,
+      "storeName": "丽莎广场",
+      "addressDetail": "狮岭镇阳光南路丽莎广场",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}

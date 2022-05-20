@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 302
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 81,
+      "storeName": "梅花园",
+      "addressDetail": "广州大道北28号一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 82,
+      "storeName": "庆丰",
+      "addressDetail": "石井街庆丰村庆丰广场路财智广场一层及二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 83,
+      "storeName": "环翠北",
+      "addressDetail": "东沙环翠北路北侧38号自编A栋35号一层及二层",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 84,
+      "storeName": "捷进",
+      "addressDetail": "番禺桥西环路364号捷进广场首层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 85,
+      "storeName": "东汇城",
+      "addressDetail": "荔城街府佑路98号东汇城二层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 86,
+      "storeName": "车陂",
+      "addressDetail": "车陂路6号（地铁车陂南C出口对面）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 87,
+      "storeName": "云城西",
+      "addressDetail": "云霄路自编353栋五号停机坪购物广场一层",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 88,
+      "storeName": "大剧院",
+      "addressDetail": "珠江新城珠江西路一号广州大剧院多功能厅一层A01-1",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 89,
+      "storeName": "永泰DT",
+      "addressDetail": "白云大道北1357号",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    },
+    {
+      "rownum": 90,
+      "storeName": "嘉禾DT",
+      "addressDetail": "联边村106国道旁加油岭地段永福商场自编1号",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+      "provinceName": "广东省",
+      "cityName": "广州市"
+    }
+  ]
+}
